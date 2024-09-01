@@ -7,7 +7,7 @@
 <div>
 HTML
 CSS
-Javascript~
+Javascript
 </div>
 
 Luccas Lima Ribeiro
